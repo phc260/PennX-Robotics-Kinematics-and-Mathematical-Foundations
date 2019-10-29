@@ -1,4 +1,4 @@
 # Light Painting
 
-![image](eiffel.gif)
-![image](love.gif)
+<img src="eiffel.gif">
+<img src="love.gif">
