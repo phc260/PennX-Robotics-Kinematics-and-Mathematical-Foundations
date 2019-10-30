@@ -4,3 +4,5 @@ Given a set of end-effector states in Cartesian space, compute forward kinematic
 
 <img src="eiffel.gif">
 <img src="love.gif">
+<img src="eiffel.png">
+<img src="love.png">
