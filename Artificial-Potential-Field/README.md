@@ -7,3 +7,4 @@
 <img src="total.jpg">
 <img src="path.jpg">
 <img src="potential_field.gif">
+<img src="potential_field.png">
